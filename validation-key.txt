@@ -1,0 +1,5 @@
+# validation-key.txt
+# This file is intended to store the validation key for the Pi UmemePay application.
+# Replace the placeholder below with your actual validation key.
+
+YOUR_VALIDATION_KEY_HERE
